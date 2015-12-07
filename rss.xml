@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Creative Green Glass Works]]></title>
         <description><![CDATA[Creative Green Glass Works]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pm-glass/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 02:01:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Dec 2015 02:15:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pm-glass/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d12e26d1-926a-49df-92d8-3ec1d01772ae.jpg">]]></description>
+            <link>https://thegrid.ai/pm-glass/d3b1366d-9137-4766-8e9a-b51a8b0bd0f4/index.html</link>
+            <guid isPermaLink="false">d3b1366d-9137-4766-8e9a-b51a8b0bd0f4</guid>
+            <pubDate>Mon, 07 Dec 2015 02:15:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e45d4dfe-3218-4cba-913a-c0199be48aeb.jpg">]]></description>
-            <link>undefined2f19afc5-0a28-4270-9b0f-3b6d2ba5be42/index.html</link>
+            <link>https://thegrid.ai/pm-glass/2f19afc5-0a28-4270-9b0f-3b6d2ba5be42/index.html</link>
             <guid isPermaLink="false">2f19afc5-0a28-4270-9b0f-3b6d2ba5be42</guid>
             <pubDate>Mon, 07 Dec 2015 02:00:35 GMT</pubDate>
         </item>
