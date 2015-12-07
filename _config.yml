@@ -1,7 +1,7 @@
 name: PM Glass
 favicon: null
-layout_spectrum: 0.43754795123822987
-typography_spectrum: 0.5019194013439119
+layout_spectrum: 0.55611
+typography_spectrum: 0.48995
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.4749815899413079
-  lightness: 0.3688346603885293
-  saturation: 0.5837714201770723
-  rhythmicContrast: 0.34578717313706875
+    - '#4593ff'
+    - '#000000'
+    - '#eddbb3'
+    - '#bb602c'
+    - '#0820fe'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
